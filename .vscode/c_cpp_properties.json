@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yicheng/Documents/Project/Fast-livo/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yicheng/Documents/Project/Fast-livo/src/FAST-LIVO/include/**",
+        "/home/yicheng/Documents/Project/Fast-livo/src/rpg_vikit/vikit_common/include/**",
+        "/home/yicheng/Documents/Project/Fast-livo/src/rpg_vikit/vikit_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
